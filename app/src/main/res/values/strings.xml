@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hitung Nutrisi Minum Air</string>
+    <string name="intro_text">Masukkan berat badan Anda untuk menghitung kebutuhan air harian.</string>
+    <string name="berat_badan_label">Berat Badan (kg)</string>
+    <string name="hitung">Hitung</string>
+    <string name="kebutuhan_air">Kebutuhan Air Harian: %1$d ml</string>
+    <string name="input_error">Input tidak boleh kosong!</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="orang_minum">Ilustrasi orang sedang minum air putih</string>
+    <string name="bagikan_pesan">Berat Badan: %1$s kg\nKebutuhan Air Harian: %2$d ml</string>
+    <string name="bagikan">Bagikan</string>
+</resources>
